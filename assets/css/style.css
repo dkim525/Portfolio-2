@@ -1,0 +1,52 @@
+*{
+    font-family: 'Lato';
+    font-size: 50px;
+    color: #bbb2e9;
+    background-color: grey;
+}
+.nav {
+    background-color: darkgray;
+    color: #bbb2e9;
+
+}
+.card{
+    height: 120px;
+    width: 240px;
+    float: right;
+    border: 0px;
+    margin-right: 10px;
+    
+}
+.card2{
+    float: left;
+}
+#linkedin {
+    size: 20000px;
+    color:rgb(52, 95, 189);
+    margin-top: 7px;
+    margin-right: 2px;
+    background-color: darkgray;
+}
+
+#github {
+    color: orange;
+    margin-top: 7px;
+    margin-right: 2px;
+    background-color: darkgray;
+}
+
+#twitter {
+    color: aqua;
+    margin-top: 7px;
+    margin-left: 20px;
+    background-color: darkgray;
+}
+.navbar-nav {
+    color:rgb(228, 176, 79);
+}
+.heading {
+    font-size: 500px;
+}
+.headshot {
+    float: right;
+}
